@@ -1,7 +1,7 @@
 import React from "react";
 
 // stylesheets
-import "./stylesheets/login.scss";
+import "./stylesheets/login.css";
 
 // components
 import { ReactComponent as GithubIcon } from "../uploads/github.svg";
